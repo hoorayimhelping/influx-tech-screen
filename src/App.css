@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+table {
+  border-collapse: collapse;
+}
+
+table th {
+  border-bottom: 1px black solid;
+  padding: 10px;
+}
+
+table td {
+  padding: 4px;
+}
+
+table td:nth-child(2),
+table td:nth-child(3) {
+  text-align: right;
+}
