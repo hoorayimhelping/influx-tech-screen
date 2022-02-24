@@ -1,4 +1,24 @@
-# Getting Started with Create React App
+# InfluxData UI Team Technical Interview
+
+Hello! This is a skeleton app used for Influx Data's UI team's technical interview.
+
+The purpose of this interview is to determine your technical ability with React and JavaScript and your communication skills. This interview will assess your ability to structure and organize an app, your ability to write reusable and maintainable React and JavaScript code, your ability to communicate your thoughts both verbally and in code.
+
+## Interview Question:
+
+Using the supplied mock data located in `src/mock_data.json` (a JSON array of 35 items of somewhat arbitrary shape representing purchasing history), build a front-end experience using React and general purpose JavaScript. The front-end application experience should meet the following criteria:
+
+- The main display is a table. This table should display 35 rows of columns (i.e. the entire JSON array)
+
+- The columns should be as follows:
+  - User's full name
+  - Total Items Purchased by that user
+  - The user's most expensive item
+
+- The table should be sorted alphabetically by user's last name. In other words, names with A, B, C should come before names with X, Y, Z.
+
+
+## Create React APP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
