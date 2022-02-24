@@ -17,6 +17,13 @@ Using the supplied mock data located in `src/mock_data.json` (a JSON array of 35
 
 - The table should be sorted alphabetically by user's last name. In other words, names with A, B, C should come before names with X, Y, Z.
 
+### General information
+- Some simple table CSS has been supplied
+- The app uses create-react-app, which comes with a json loader. This allows you to import the json file like any other module.
+- Clone this app from github, then run `npm start` to fire it up
+
+
+---
 
 ## Create React APP
 
