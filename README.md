@@ -26,6 +26,7 @@ Using the supplied mock data located in `src/mock_data.json` (a JSON array of 35
 - Clone this app from github, then run `npm start` to fire it up
 
 Good luck, have fun (GLHF)!
+
 ---
 
 ## Create React APP
